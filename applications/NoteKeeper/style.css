@@ -3,8 +3,9 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
-    color: #0080ff;
+    color: #050044;
     margin: 20px;
+    background-color: #dff0d8
   }
   
   .form {
@@ -21,4 +22,9 @@
   
   .note {
     padding: 5px;
+  }
+
+  .note-area {
+      background-color: #fcf8e3;
+      margin-top: 20px;
   }
