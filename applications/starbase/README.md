@@ -1,6 +1,6 @@
 # starbase
 
-> A Vue.js project
+> A Vue.js project working with Star Wars API database
 
 ## Build Setup
 
